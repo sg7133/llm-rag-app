@@ -1,6 +1,6 @@
 Version = 1.1
 
-## Features Implemented
+## Release Notes
 
 
 1. Upload single PDF document to a folder and use RAG and vectorstore to ask relevant questions from the document
