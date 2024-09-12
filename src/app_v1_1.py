@@ -1,15 +1,4 @@
-'''
-TV means implement in this version
-OV mean implemented in old version
 
-OV - Upload single PDF document to a folder and use RAG and vectorstore to ask relevant questions from the document
-TV - Made the output of the llm cleaner by hiding the RAG context and question being repeated in the llm response
-To the above implementation - add capability to chat with context - PENDING
-To the above implementation - add capability to add multiple documents of different formats - PENDING
-To the above implementation - divide the logic into 2 tiers and run client and api separately on local machine - PENDING
-To the above implementation - Take the 2 tier app and deploy it on a server on a cloud and give access to client - PENDING
-
-'''
 import streamlit as st
 import os
 import sys
